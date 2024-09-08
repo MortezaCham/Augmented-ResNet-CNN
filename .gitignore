@@ -1,0 +1,3 @@
+# Ignore Windows system files
+AppData/
+*.lock
